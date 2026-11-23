@@ -3,13 +3,9 @@ Bioinformatician | Cancer computational biology | PhD candidate at Medical Unive
 
 ### Current work
 
-I'm a PhD student in cancer genomics, currently focusing on computational data analysis.
+I'm a PhD student in cancer genomics, currently focusing on computational biology. Coming from a wet-lab and pharmacy/dietetics background, I have a good understanding of the biology and how data are generated, which helps me ask better research questions and understand it more deeply. 
 
-Coming from a wet-lab and pharmacy/dietetics background, I understand how data are generated, which helps me ask better research questions and understand it more deeply. 
-
-As a part of my PhD project I analyse cancers to understand how they begin. My PhD research focuses on genomic and epigenetic alterations in histologically normal tissue adjacent to breast and bladder tumors, the "cancerized field" where malignancy is thought to start. 
-
-I work with SNP arrays, whole-exome sequencing and Oxford Nanopore long-read data, with the aim of understanding the affected organ as a whole in the context of cancer, identifying early-detection markers and reconstructing clonal lineages.
+My PhD project focuses on analyzing genomic and epigenetic alterations in histologically normal tissue adjacent to breast and bladder tumors to understand the affected organ as a whole in the context of cancer, identifying early-detection markers and reconstructing clonal lineages.
 
 My broader interests include the role of ageing, inflammation and lifestyle factors in cancer, cancer metabolism and exploring novel therapeutic directions/drug discovery.
 
