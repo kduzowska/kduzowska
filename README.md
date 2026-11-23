@@ -24,7 +24,8 @@ R | Python | Bash | Linux | Git | bcftools | Oxford Nanopore (Dorado, Modkit)
 
 ### Completed projects
 
-- **bladder-cancer-field-genomics:**
+- **Bladder cancer field genomics:**
+    - [View the bladder cancer genomics repository](https://github.com/kduzowska/bladder-cancer-field-genomics)
     - In this project I analyzed SNP array (746 samples, 103 patients) and whole-exome sequencing data (140 samples, 38 patients) to determine the copy number alteration patterns, burden, mutational signatures and clonal lineages of the bladder tumors and adjacent, histologically normal tissues.
     - Skills: R, bcftools, Bash, Pyclone-VI, statistical analyses, data visualization.
     - Paper: Bladder cancer beyond the tumor: multi-site genomic profiling identifies recurrent alterations in FGFR signaling and chromatin regulators across the cancerized urothelial field (doi:...)
